@@ -10,5 +10,5 @@ package practicaherencia;
  * @author hecto
  */
 public class PracticaHerenciaII {
-    
+    ////////
 }
