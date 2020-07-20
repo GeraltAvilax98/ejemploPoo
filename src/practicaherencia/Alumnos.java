@@ -22,6 +22,7 @@ public class Alumnos extends Personas{
         this.Nota2 = Nota2;
         this.Nota3 = Nota3;
         this.Promedio = Promedio;
+        ///
     }
     
     public void mostrardatos(){
